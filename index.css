@@ -1,0 +1,41 @@
+﻿body{
+    background-color: #68cdd5;
+    margin: 5% 10% 20% 10%;
+    padding: 0 0 20% 0;
+}
+p {
+    font-size: 4.5vw;
+    color: white;
+    line-height: 185%;
+    width: 75%;
+}
+.text {
+    
+    position:center;
+}
+.header {
+    text-indent: 4.5%;
+    position: relative;
+    top: 0.8em;
+}
+.header-logo {
+    text-indent: 30%;
+    position: relative;
+    top: 3.6em;
+}
+.body-text {
+    text-indent: 14%;
+    line-height: 4.375vw;
+    position: relative;
+    top: 5em
+}
+.footer-right {
+    text-indent: 22%;
+    position: relative;
+    top: 25.2em;
+}
+.footer-left {
+    text-indent: 67%;
+    position: relative;
+    top: 15.45em;
+}
